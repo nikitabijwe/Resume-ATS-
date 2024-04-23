@@ -28,3 +28,5 @@ It offers suggestions for resume improvements, highlights strengths and weakness
 
 ## Conclusion
 The Resume Genie Streamlit application revolutionizes the job application process by leveraging AI to deliver actionable insights and recommendations, empowering job seekers to optimize their resumes and secure their dream roles with confidence.
+
+![Screen Shot 2024-04-23 at 3 51 55 PM](https://github.com/nikitabijwe/Resume-Genie/assets/91217413/13fcbe08-c3ed-4994-81a3-7dc65e25abfe)
