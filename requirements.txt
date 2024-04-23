@@ -3,4 +3,3 @@ google-generativeai
 python-dotenv
 poppler-utils
 pdf2image
-packages.txt
