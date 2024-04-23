@@ -1,6 +1,8 @@
 # Resume Genie: Gemini LLM
 Welcome to Resume Genie, a Resume ATS Feedback powered by the Google Gemini Pro Vision LLM Model.
 
+This project was born from a personal journey fueled by a desire to transform these challenges into opportunities for growth. Leveraging Google's generative AI, Gemini, I set out to create more than just an application—it's a lifeline for job seekers, offering not only feedback and insights but also a sense of validation and support in an otherwise daunting process.
+
 ## Overview
 Resume Genie is an innovative tool designed to provide summary and feedback on Resume by analyzing both the job description and the candidate's resume. 
 It offers suggestions for resume improvements, highlights strengths and weaknesses, calculates the percentage match between the resume and the job description, and determines the candidate's fit for the role.
