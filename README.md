@@ -6,7 +6,7 @@ Resume Genie is an innovative tool designed to provide summary and feedback on R
 It offers suggestions for resume improvements, highlights strengths and weaknesses, calculates the percentage match between the resume and the job description, and determines the candidate's fit for the role.
 
 ## Features
-Resume Upload: Users can upload their resume in PDF format.
+- Resume Upload: Users can upload their resume in PDF format.
 Job Description Input: Resume Genie analyzes the job description to understand the requirements and preferences of the hiring manager.
 Resume Analysis: It evaluates the candidate's resume to identify strengths, weaknesses, and areas for improvement.
 Feedback and Suggestions: Based on the analysis, Resume Genie provides actionable feedback and suggestions to enhance the resume.
