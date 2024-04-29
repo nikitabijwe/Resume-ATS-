@@ -45,7 +45,7 @@ st.header("Resume Genie")
 input_text=st.text_area("Job Description: ",key="input")
 uploaded_file=st.file_uploader("Upload your resume(PDF)...",type=["pdf"])
 
-
+## if success
 if uploaded_file is not None:
     st.write("PDF Uploaded Successfully")
 
