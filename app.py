@@ -52,7 +52,7 @@ if uploaded_file is not None:
 
 submit1 = st.button("Tell Me About the Resume")
 
-#submit2 = st.button("How Can I Improvise my Skills")
+## submit2 = st.button("How Can I Improvise my Skills")
 
 submit3 = st.button("Percentage match")
 
