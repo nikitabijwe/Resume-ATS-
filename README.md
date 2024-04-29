@@ -1,4 +1,7 @@
-# Resume Genie: Gemini LLM
+# Resume Genie: Gemini LLM 
+
+Deployed at: https://resume-genie.streamlit.app/
+
 Welcome to Resume Genie, a Resume ATS Feedback powered by the Google Gemini Pro Vision LLM Model.
 
 This project was born from a personal journey fueled by a desire to transform these challenges into opportunities for growth. Leveraging Google's generative AI, Gemini, I set out to create more than just an application—it's a lifeline for job seekers, offering not only feedback and insights but also a sense of validation and support in an otherwise daunting process.
